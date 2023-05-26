@@ -1,0 +1,137 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+body{
+    background: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.txt1{
+    font-size: 50px;
+font-family: 'Minecraft', sans-serif;
+color: aqua;
+}
+.txt2{
+    color: red;
+    font-size: 25px;
+font-family: 'Minecraft', sans-serif;
+}
+.txt3{
+    color: blueviolet;
+    font-size: 25px;
+font-family: 'Minecraft', sans-serif;
+}
+.txt4{
+    color: cornflowerblue;
+    font-size: 25px;
+font-family: 'Minecraft', sans-serif;
+}
+.txt5{
+    color: white;
+    font-size: 25px;
+font-family: 'Minecraft', sans-serif;
+}
+.anc1{
+    color: red;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.anc2{
+    color: aqua;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.anc3{
+    color: green;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.wanc1{
+    color: aqua;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.wanc2{
+    color: red;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.wanc3{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.wanc4{
+    color: green;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.swamp1{
+    color: sandybrown;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.swamp2{
+    color: sandybrown;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.swamp3{
+    color: sandybrown;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.swamp4{
+    color: sandybrown;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.warden1{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.warden2{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.warden3{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.warden4{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.frog1{
+    color: brown;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.frog2{
+    color: brown;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.frog3{
+    color: brown;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.allay1{
+    color: aqua;
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+}
+.allay2{
+    color: aqua;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
+.allay3{
+    color: aqua;
+    font-size: 25px;
+    font-family: 'Minecraft', sans-serif;
+}
