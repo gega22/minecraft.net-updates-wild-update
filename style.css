@@ -3,7 +3,21 @@ body{
     background: url('background.gif');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: -48px;
+    float: right;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
 }
 .txt1{
     font-size: 50px;
