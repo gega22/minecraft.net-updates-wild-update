@@ -18,6 +18,7 @@ body{
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease-in-out;
     text-decoration: none;
+    margin-top: -40px;
 }
 a{
     text-decoration: none;
